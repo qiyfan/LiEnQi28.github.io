@@ -10,7 +10,7 @@ redirect_from:
 I'm a third year undergraduate student from [South China Normal University](https://www.scnu.edu.cn
 ). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find me here:
 
 [Email](20203232028@m.scnu.edu.cn) / [Github](https://github.com/qiyfan) / [Wechat](../images/wechat.jpg) 
 
